@@ -2,7 +2,7 @@
 
 **`Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio - 3° Vespertino`**
 
-Me chamo Phillip da Silva Marcelino Bonfim, tenho 18 anos e sou natural da cidade de São Paulo. Estou cursando o ensino médio no IFSP, com o curso técnico em Desenvolvimento de Sistemas. 
+Me chamo Phillip da Silva Marcelino Bonfim, tenho 18 anos e sou da cidade de São Paulo. Estou cursando o ensino médio no IFSP, com o curso técnico em Desenvolvimento de Sistemas. 
 
 <p>
     <img 
